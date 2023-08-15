@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const NpcCreate = () => {
 return (
 	<div
@@ -11,6 +12,7 @@ return (
 	}}
 	>
 	<h1>NPC Char Creator</h1>
+	
 	</div>
 );
 };
